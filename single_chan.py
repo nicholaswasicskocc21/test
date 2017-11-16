@@ -11,4 +11,3 @@ while True:
   
   IO.output(40, IO.LOW)
   time.sleep(5)
- 
